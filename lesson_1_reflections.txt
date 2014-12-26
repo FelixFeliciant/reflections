@@ -1,0 +1,22 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+It helped me by learing a new command that i didnt know before, also iv learned now how to use the the git shell, it also made me work abit and see whats going on around the code, i used to compare word for word.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Well looking from the history of a file you could see the changes that happend to it along the way and you could grasp those changes bit by bit to see the bigger picture thus giving you a good view of the events that happend to it.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+pros: I think commiting yourself is a tool that allows you to decide when you need it because you are incharge
+cons: when you commit yourself you might be commiting to much and you might get lost from the mess you made 
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+because they are designed for diffrent  purposes git is deigned for programmers that makes changes which causes changes in diffrent files while google docs is designed  for people who mainly upload their data in each seperate file with the independancy of another file.
+
+How can you use the commands git log and git diff to view the history of files?
+I can use git log to access the history of the changes of repository and compare to history's by the diff cmd and the id's of the  commits this is quite usefull to see the events that took place and allows an pure insight of the development of things which is very usefull tool in my opinion.
+
+How might using version control make you more confident to make changes that could break something?
+Wel if things went wrong i could always revert to the previous version and this type of insurence allows me to work freely on my code without being afraid of the consequences.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I want to develop mobile app using git :)

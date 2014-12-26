@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+you create a .git folder which is a hidden folder that contains the history of your commits, also there are no commits since you have made one.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+the staging area is the area where the commits are going to work on in the staging area we will monitor changes of files we wish to keep track of in the working directory we have all of the files but some of them not be monitored because we dont wish to monitor them.
