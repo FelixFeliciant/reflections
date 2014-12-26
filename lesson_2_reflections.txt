@@ -3,3 +3,9 @@ you create a .git folder which is a hidden folder that contains the history of y
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 the staging area is the area where the commits are going to work on in the staging area we will monitor changes of files we wish to keep track of in the working directory we have all of the files but some of them not be monitored because we dont wish to monitor them. ok2
+
+How can you use the staging area to make sure you have one commit per logical change?
+by adding one change per a time :)
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+branches can help trying something new without destroying the main version of the code :)
